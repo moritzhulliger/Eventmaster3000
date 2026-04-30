@@ -1,3 +1,3 @@
-let velo = "mountainbike";
+let velo = "lalala";
 
 console.log(velo);
