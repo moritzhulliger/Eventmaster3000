@@ -1,3 +1,4 @@
-let velo = "moundfdfdfdftainbike";
+
+let velo = "lalala";
 
 console.log(velo);
